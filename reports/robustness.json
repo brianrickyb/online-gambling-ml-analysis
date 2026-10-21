@@ -1,0 +1,45 @@
+{
+  "brands": [
+    {
+      "held_out_brand": "alexis",
+      "n_test": 1029,
+      "recall_unseen": 0.858114674441205
+    },
+    {
+      "held_out_brand": "mandalika",
+      "n_test": 305,
+      "recall_unseen": 0.9967213114754099
+    },
+    {
+      "held_out_brand": "dora",
+      "n_test": 217,
+      "recall_unseen": 0.9861751152073732
+    },
+    {
+      "held_out_brand": "weton",
+      "n_test": 100,
+      "recall_unseen": 1.0
+    },
+    {
+      "held_out_brand": "pluto",
+      "n_test": 60,
+      "recall_unseen": 1.0
+    },
+    {
+      "held_out_brand": "pulau",
+      "n_test": 165,
+      "recall_unseen": 0.7696969696969697
+    },
+    {
+      "held_out_brand": "manut",
+      "n_test": 45,
+      "recall_unseen": 1.0
+    },
+    {
+      "held_out_brand": "berkah",
+      "n_test": 52,
+      "recall_unseen": 0.9807692307692307
+    }
+  ],
+  "weighted_recall": 0.9042067916877851
+}

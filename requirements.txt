@@ -1,0 +1,7 @@
+# Everything for development: training, notebooks, tests, API.
+-r requirements-api.txt
+matplotlib==3.11.2
+seaborn==0.13.2
+pytest==9.1.1
+httpx==0.28.1
+jupyter==1.1.1

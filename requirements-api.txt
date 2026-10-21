@@ -1,0 +1,9 @@
+# Minimal set to SERVE the model (used by the Dockerfile).
+# scikit-learn must match the version used for training: a pickled model
+# may fail to load, or silently behave differently, on another version.
+scikit-learn==1.9.1
+numpy==2.5.4
+pandas==3.0.6
+joblib==1.6.0
+fastapi==0.157.0
+uvicorn==0.54.0
